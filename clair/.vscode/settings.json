@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\dodsworjo\\.conda\\envs\\clair\\python.exe",
+    "files.exclude": {
+        "**/.git": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    }
+}
